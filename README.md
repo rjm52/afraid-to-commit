@@ -1,4 +1,4 @@
-Manifesto for Agile Software Development
+# Manifesto for Agile Software Development
 
 We are uncovering better ways of developing 
 software by doing it and helping others do it.
@@ -13,3 +13,13 @@ Responding to change over following a plan
 
 That is, while there is value in the items on
 the right, we value the items on the left more.
+
+James Grenning
+Jim Highsmith
+Andrew Hunt
+Ron Jeffries
+Jon Kern
+Brian Marick
+Robert C. Martin
+Steve Mellor
+Ken Schwaber
